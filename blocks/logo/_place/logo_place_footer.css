@@ -1,0 +1,6 @@
+.logo_place_footer.css {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    z-index: 1;
+}
