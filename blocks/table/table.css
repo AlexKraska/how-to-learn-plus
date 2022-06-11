@@ -7,4 +7,6 @@
     margin: 0;
     list-style: none;
     justify-content: space-between;
+    position: relative;
+    z-index: 1;
 }
